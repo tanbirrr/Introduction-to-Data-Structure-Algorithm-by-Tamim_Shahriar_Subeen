@@ -1,0 +1,13 @@
+tail = 1
+tail = 2
+tail = 3
+tail = 4
+tail = 5
+Queue is full
+tail = 5
+beginning head = 0
+item = 1, head = 1
+item = 2, head = 2
+item = 3, head = 3
+item = 4, head = 4
+item = 5, head = 5

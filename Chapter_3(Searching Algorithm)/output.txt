@@ -1,0 +1,1 @@
+Element 12 is present at index 5.

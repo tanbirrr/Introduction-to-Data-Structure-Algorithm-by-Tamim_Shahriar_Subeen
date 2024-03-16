@@ -1,0 +1,4 @@
+Value for key 'apple': 10
+Value for key 'banana': 20
+Value for key 'cherry': 30
+Value for key 'grape': -1

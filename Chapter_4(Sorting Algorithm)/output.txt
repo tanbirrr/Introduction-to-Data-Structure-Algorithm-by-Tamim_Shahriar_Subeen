@@ -1,0 +1,4 @@
+Enter the number of elements: 
+Enter 5 elements:
+Original Array: 5 2 3 1 4 
+Sorted Array: 1 2 3 4 5 

@@ -1,0 +1,11 @@
+BST:
+1 5 10 
+Will delete 1
+BST:
+5 10 
+Will delete 5
+BST:
+10 
+Will delete 10
+BST:
+
